@@ -1,0 +1,6 @@
+{
+  "name": "Hide & Seek: Object World",
+  "description": "A high-quality 3D multiplayer hide-and-seek prop hunt game. Blend in as objects, hide smart, or seek down hidden players before the round ends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
